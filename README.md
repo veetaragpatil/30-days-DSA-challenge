@@ -2,4 +2,4 @@
 
 | Day | Problem | Language | File |
 |-----|---------|---------|------|
-| 1   | Palindrome Number | Python | [palindrome_number.py](Day01/palindrome_number.py) |
+| 1   | Palindrome Number | Python | [palindrome_number.py](day 1/palindrome_number.py) |
