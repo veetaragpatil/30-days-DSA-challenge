@@ -11,7 +11,7 @@ class merge:
                 n-=1
             last-=1
         while n>0:
-            nums1[last]=nums2[n]
+            num1[last]=num2[n-1]
             n-=1
             last-=1
 num1 = [1,2,3,0,0,0]
