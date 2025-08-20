@@ -7,3 +7,5 @@
 | 3   | Find Duplicate Number | Python | [DAY_03](day03) |
 | 4   | Merge Two Sorted Array | Python | [DAY_04](day04) |
 | 5   | Find The Leaders In An Array | Python | [DAY_05](day05) |
+| 6   | Find All Subarrays with Zero Sum | Python | [DAY_06](day06) |
+
