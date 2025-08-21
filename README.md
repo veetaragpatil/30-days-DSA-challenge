@@ -8,4 +8,4 @@
 | 4   | Merge Two Sorted Array | Python | [DAY_04](day04) |
 | 5   | Find The Leaders In An Array | Python | [DAY_05](day05) |
 | 6   | Find All Subarrays with Zero Sum | Python | [DAY_06](day06) |
-| 7   |  | Python | [DAY_07(day07/Traping rain water.py)|
+| 7   |                                   | Python | [DAY_07(day07/Trapping Rain Water.py)|
