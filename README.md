@@ -9,3 +9,6 @@
 | 5   | Find The Leaders In An Array | Python | [DAY_05](day05) |
 | 6   | Find All Subarrays with Zero Sum | Python | [DAY_06](day06) |
 | 7   | Trapping Rain Water | Python | [DAY_07](day07/Trapping_Rain_Water.py)|
+| 8   | Reverse a String Word by Word | Python | [DAY_08](day08/Reverse a String Word by Word.py)|
+
+
