@@ -10,5 +10,5 @@
 | 6   | Find All Subarrays with Zero Sum | Python | [DAY_06](day06) |
 | 7   | Trapping Rain Water | Python | [DAY_07](day07/Trapping_Rain_Water.py)|
 | 8   | Reverse a String Word by Word | Python | [DAY_08](day08/Reverse_a_String_Word_by_Word.py)|
-
+| 9   | Longest Common Prefix | Python | [DAY_09](day09/Longest_Common_Prefix.py)|
 
