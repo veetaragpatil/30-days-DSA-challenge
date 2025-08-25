@@ -12,4 +12,5 @@
 | 8   | Reverse a String Word by Word | Python | [DAY_08](day08/Reverse_a_String_Word_by_Word.py)|
 | 9   | Longest Common Prefix | Python | [DAY_09](day09/Longest_Common_Prefix.py)|
 | 10  | Group Anagrams | Python | [DAY_10](day_10/Group_Anagrams.py)|
+| 11  | Permutations_of_a_String | Python |[DAY_11](day11/Permutations_of_a_String.py)|
 
