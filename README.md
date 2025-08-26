@@ -13,4 +13,4 @@
 | 9   | Longest Common Prefix | Python | [DAY_09](day09/Longest_Common_Prefix.py)|
 | 10  | Group Anagrams | Python | [DAY_10](day_10/Group_Anagrams.py)|
 | 11  | Permutations_of_a_String | Python |[DAY_11](day11/Permutations_of_a_String.py)|
-
+| 12  | Valid Parentheses with Multiple Types | Python |[DAY_12](day12/Valid_Parentheses_with_Multiple_Types.py)|
