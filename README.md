@@ -15,3 +15,4 @@
 | 11  | Permutations_of_a_String | Python |[DAY_11](day11/Permutations_of_a_String.py)|
 | 12  | Valid Parentheses with Multiple Types | Python |[DAY_12](day12/Valid_Parentheses_with_Multiple_Types.py)|
 | 13  | Longest Palindromic Substring | Python |[DAY_13](day13/Longest_Palindromic_Substring.py)|
+| 14  | Count Substrings with Exactly K-Distinct Characters  | Python |[DAY_14](day14/Count_Substrings_with_Exactly_K-Distinct_Characters.py)|
