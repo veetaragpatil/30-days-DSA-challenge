@@ -19,3 +19,5 @@
 | 15  | Find the Longest Substring Without epeating Characters | Python |[DAY_15](day15/Find_the_Longest_Substring_Without_Repeating_Characters.py)|
 | 16  | LCM of two number | Python |[DAY_16](day16/LCM_of_two_number.py)|
 | 17  | Prime Factorization of a Number | Python |[Day_17](day17/Prime_Factorization_of_a_Number.py)|
+| 18  |  |[DAY_18]()|
+| 19  | Evaluate a Postfix Expression |[DAY_19](day19/Evaluate_a_Postfix_Expression.py)|
