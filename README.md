@@ -21,3 +21,4 @@
 | 17  | Prime Factorization of a Number | Python |[Day_17](day17/Prime_Factorization_of_a_Number.py)|
 | 18  | Count the Number of Divisors of a Number | Python |[DAY_18](day18/Count_the_Number_of_Divisors_of_a_Number.py)|
 | 19  | Evaluate a Postfix Expression | Python |[DAY_19](day19/Evaluate_a_Postfix_Expression.py)|
+| 20  | Sort a Stack Using Recursion | Python |[DAY_20](day20/Sort_a_Stack_Using_Recursion.py)|
