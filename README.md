@@ -23,3 +23,4 @@
 | 19  | Evaluate a Postfix Expression | Python |[DAY_19](day19/Evaluate_a_Postfix_Expression.py)|
 | 20  | Sort a Stack Using Recursion | Python |[DAY_20](day20/Sort_a_Stack_Using_Recursion.py)|
 | 21  | Reverse a Stack Using Recursion | Python |[DAY_21](day21/Reverse_a_Stack_Using_Recursion.py)|
+| 22  | First Element to Repeat k Times | Python |[DAY_22](day22/First_Element_to_Repeat_k_Times.py)|
