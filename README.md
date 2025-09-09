@@ -26,3 +26,6 @@
 | 22  | First Element to Repeat k Times | Python |[DAY_22](day22/First_Element_to_Repeat_k_Times.py)|
 | 23  | Sliding Window Maximum | Python |[DAY_23](day23/Sliding_Window_Maximum.py)|
 | 24  | Lowest Common Ancestor in a Binary Tree | Python |[DAY_24](day24/Lowest_Common_Ancestor_in_a_Binary_Tree.py)|
+| 25  |  | Python |[DAY_25]()|
+| 26  |  | Python |[DAY_26]()|
+
